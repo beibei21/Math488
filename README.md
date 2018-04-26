@@ -3,4 +3,7 @@ Project
 
 This is a new class for stats 
 
-Today is April 26thhi
+Today is April 26th
+
+2018 
+The year 2018
